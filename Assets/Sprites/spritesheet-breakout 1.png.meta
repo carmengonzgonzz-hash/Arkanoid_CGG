@@ -1,0 +1,2074 @@
+fileFormatVersion: 2
+guid: da90cf94abb2f1b4c8f8b2525b6f5e75
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3943328586213254283
+    second: spritesheet-breakout 1_0
+  - first:
+      213: -1069543634387394787
+    second: spritesheet-breakout 1_1
+  - first:
+      213: 65753771786738105
+    second: spritesheet-breakout 1_2
+  - first:
+      213: 3665808650154285386
+    second: spritesheet-breakout 1_3
+  - first:
+      213: 4729153263497467926
+    second: spritesheet-breakout 1_4
+  - first:
+      213: 5913996152061339942
+    second: spritesheet-breakout 1_5
+  - first:
+      213: 7598001216960095349
+    second: spritesheet-breakout 1_6
+  - first:
+      213: 8762207145478353187
+    second: spritesheet-breakout 1_7
+  - first:
+      213: -8960279654205489644
+    second: spritesheet-breakout 1_8
+  - first:
+      213: 3556387040072355266
+    second: spritesheet-breakout 1_9
+  - first:
+      213: -3011658425912834409
+    second: spritesheet-breakout 1_10
+  - first:
+      213: -6072634847366532850
+    second: spritesheet-breakout 1_11
+  - first:
+      213: -8016238613520785635
+    second: spritesheet-breakout 1_12
+  - first:
+      213: 6001672553141174960
+    second: spritesheet-breakout 1_13
+  - first:
+      213: -7616109714543659018
+    second: spritesheet-breakout 1_14
+  - first:
+      213: -6577177576459463731
+    second: spritesheet-breakout 1_15
+  - first:
+      213: 4616532032847838327
+    second: spritesheet-breakout 1_16
+  - first:
+      213: -999639611343414092
+    second: spritesheet-breakout 1_17
+  - first:
+      213: 4695715212204419332
+    second: spritesheet-breakout 1_18
+  - first:
+      213: -6519795461869525750
+    second: spritesheet-breakout 1_19
+  - first:
+      213: 4377393743390577402
+    second: spritesheet-breakout 1_20
+  - first:
+      213: 7149092438865283200
+    second: spritesheet-breakout 1_21
+  - first:
+      213: 6887422948534179074
+    second: spritesheet-breakout 1_22
+  - first:
+      213: -5430393577304479446
+    second: spritesheet-breakout 1_23
+  - first:
+      213: -2671964581011976840
+    second: spritesheet-breakout 1_24
+  - first:
+      213: -3119309058713368350
+    second: spritesheet-breakout 1_25
+  - first:
+      213: 8153098686769864488
+    second: spritesheet-breakout 1_26
+  - first:
+      213: -3154154836060995814
+    second: spritesheet-breakout 1_27
+  - first:
+      213: 3950652336625299574
+    second: spritesheet-breakout 1_28
+  - first:
+      213: 8341441488695142568
+    second: spritesheet-breakout 1_29
+  - first:
+      213: -5271894345241070075
+    second: spritesheet-breakout 1_30
+  - first:
+      213: 2910725264027375756
+    second: spritesheet-breakout 1_31
+  - first:
+      213: -6991522125417773097
+    second: spritesheet-breakout 1_32
+  - first:
+      213: -5443882845185480320
+    second: spritesheet-breakout 1_33
+  - first:
+      213: -6481605750615316426
+    second: spritesheet-breakout 1_34
+  - first:
+      213: 241365256817202345
+    second: spritesheet-breakout 1_35
+  - first:
+      213: 4885313291462207146
+    second: spritesheet-breakout 1_36
+  - first:
+      213: -2499559543033630525
+    second: spritesheet-breakout 1_37
+  - first:
+      213: 2912685270690679488
+    second: spritesheet-breakout 1_38
+  - first:
+      213: -2583925562048874867
+    second: spritesheet-breakout 1_39
+  - first:
+      213: -3256058773098523381
+    second: spritesheet-breakout 1_40
+  - first:
+      213: 5123057113405374276
+    second: spritesheet-breakout 1_41
+  - first:
+      213: -2528876147832132231
+    second: spritesheet-breakout 1_42
+  - first:
+      213: -3637396105312866432
+    second: spritesheet-breakout 1_43
+  - first:
+      213: 1458947113639629530
+    second: spritesheet-breakout 1_44
+  - first:
+      213: 2294207240457379678
+    second: spritesheet-breakout 1_45
+  - first:
+      213: -5552016203076039634
+    second: spritesheet-breakout 1_46
+  - first:
+      213: -8764768000578710542
+    second: spritesheet-breakout 1_47
+  - first:
+      213: -8618456588955018319
+    second: spritesheet-breakout 1_48
+  - first:
+      213: 3123237893702557980
+    second: spritesheet-breakout 1_49
+  - first:
+      213: -8645108158006221273
+    second: spritesheet-breakout 1_50
+  - first:
+      213: 5563731265474278364
+    second: spritesheet-breakout 1_51
+  - first:
+      213: 9073806881496825537
+    second: spritesheet-breakout 1_52
+  - first:
+      213: 7443237078166108545
+    second: spritesheet-breakout 1_53
+  - first:
+      213: 6166551516561597329
+    second: spritesheet-breakout 1_54
+  - first:
+      213: -2386789043073369091
+    second: spritesheet-breakout 1_55
+  - first:
+      213: 3708564008563668643
+    second: spritesheet-breakout 1_56
+  - first:
+      213: 5663692625103053274
+    second: spritesheet-breakout 1_57
+  - first:
+      213: -653534297490549366
+    second: spritesheet-breakout 1_58
+  - first:
+      213: -8211614716253984403
+    second: spritesheet-breakout 1_59
+  - first:
+      213: -6862500170865784749
+    second: spritesheet-breakout 1_60
+  - first:
+      213: 4624051799215695264
+    second: spritesheet-breakout 1_61
+  - first:
+      213: 6953608330066584104
+    second: spritesheet-breakout 1_62
+  - first:
+      213: 2325390863420942123
+    second: spritesheet-breakout 1_63
+  - first:
+      213: 4307850479657899728
+    second: spritesheet-breakout 1_64
+  - first:
+      213: 3661839142633549873
+    second: spritesheet-breakout 1_65
+  - first:
+      213: -8633259780474623832
+    second: spritesheet-breakout 1_66
+  - first:
+      213: -615340955334172169
+    second: spritesheet-breakout 1_67
+  - first:
+      213: -5461481647908966631
+    second: spritesheet-breakout 1_68
+  - first:
+      213: -8528169511408035555
+    second: spritesheet-breakout 1_69
+  - first:
+      213: 6683804838169315595
+    second: spritesheet-breakout 1_70
+  - first:
+      213: -6239885590478716517
+    second: spritesheet-breakout 1_71
+  - first:
+      213: -2169274050986231840
+    second: spritesheet-breakout 1_72
+  - first:
+      213: 5666568209296785303
+    second: spritesheet-breakout 1_73
+  - first:
+      213: -7842187951338185525
+    second: spritesheet-breakout 1_74
+  - first:
+      213: 579329835636526698
+    second: spritesheet-breakout 1_75
+  - first:
+      213: 6510913739194101950
+    second: spritesheet-breakout 1_76
+  - first:
+      213: 4326027023123269993
+    second: spritesheet-breakout 1_77
+  - first:
+      213: -8565691860084817753
+    second: spritesheet-breakout 1_78
+  - first:
+      213: -6728711196247059457
+    second: spritesheet-breakout 1_79
+  - first:
+      213: 6712678018454781901
+    second: spritesheet-breakout 1_80
+  - first:
+      213: -4463414020532046643
+    second: spritesheet-breakout 1_81
+  - first:
+      213: 6322293381806185725
+    second: spritesheet-breakout 1_82
+  - first:
+      213: 6213823041037722696
+    second: spritesheet-breakout 1_83
+  - first:
+      213: -7220952564999427844
+    second: spritesheet-breakout 1_84
+  - first:
+      213: -3066998295425517654
+    second: spritesheet-breakout 1_85
+  - first:
+      213: 6619303886478379692
+    second: spritesheet-breakout 1_86
+  - first:
+      213: 2827519113751363542
+    second: spritesheet-breakout 1_87
+  - first:
+      213: -1451508932928029406
+    second: spritesheet-breakout 1_88
+  - first:
+      213: -1344624404972927408
+    second: spritesheet-breakout 1_89
+  - first:
+      213: 4468794832141363761
+    second: spritesheet-breakout 1_90
+  - first:
+      213: 23086919113358273
+    second: spritesheet-breakout 1_91
+  - first:
+      213: 7521351361016402823
+    second: spritesheet-breakout 1_92
+  - first:
+      213: -7702057236963812041
+    second: spritesheet-breakout 1_93
+  - first:
+      213: -2160224417498452553
+    second: spritesheet-breakout 1_94
+  - first:
+      213: -2930196610591306631
+    second: spritesheet-breakout 1_95
+  - first:
+      213: 5776030497863244791
+    second: spritesheet-breakout 1_96
+  - first:
+      213: 1842545387244106336
+    second: spritesheet-breakout 1_97
+  - first:
+      213: 5201018450615656131
+    second: spritesheet-breakout 1_98
+  - first:
+      213: 4590001759393434556
+    second: spritesheet-breakout 1_99
+  - first:
+      213: -4212149709056886586
+    second: spritesheet-breakout 1_100
+  - first:
+      213: 8595549188604099895
+    second: spritesheet-breakout 1_101
+  - first:
+      213: 8802520847543771100
+    second: spritesheet-breakout 1_102
+  - first:
+      213: 1181422820924954310
+    second: spritesheet-breakout 1_103
+  - first:
+      213: 4956187736133944337
+    second: spritesheet-breakout 1_104
+  - first:
+      213: 2659019865829604959
+    second: spritesheet-breakout 1_105
+  - first:
+      213: -6931548613600245049
+    second: spritesheet-breakout 1_106
+  - first:
+      213: 8082005676290477022
+    second: spritesheet-breakout 1_107
+  - first:
+      213: 8930330942048986177
+    second: spritesheet-breakout 1_108
+  - first:
+      213: -1986694403095479640
+    second: spritesheet-breakout 1_109
+  - first:
+      213: 4273517552865035669
+    second: spritesheet-breakout 1_110
+  - first:
+      213: 1376695701259081355
+    second: spritesheet-breakout 1_111
+  - first:
+      213: -3557030475923885800
+    second: spritesheet-breakout 1_112
+  - first:
+      213: 4576827636209829137
+    second: spritesheet-breakout 1_113
+  - first:
+      213: 6868071230994992151
+    second: spritesheet-breakout 1_114
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b9d122b8b7649c0800000000000000
+      internalID: -3943328586213254283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f1f803bb73821f0800000000000000
+      internalID: -1069543634387394787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b99df105ba99e000800000000000000
+      internalID: 65753771786738105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4910078b819fd230800000000000000
+      internalID: 3665808650154285386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618552746d351a140800000000000000
+      internalID: 4729153263497467926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629a4a6aa2cb21250800000000000000
+      internalID: 5913996152061339942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57464e3d9d5817960800000000000000
+      internalID: 7598001216960095349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32170a289fc999970800000000000000
+      internalID: 8762207145478353187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41efbeac021b6a380800000000000000
+      internalID: -8960279654205489644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdc05f9b23da5130800000000000000
+      internalID: 3556387040072355266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79647aa3e907436d0800000000000000
+      internalID: -3011658425912834409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e013f00d7caa9bba0800000000000000
+      internalID: -6072634847366532850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fd25ee37990c090800000000000000
+      internalID: -8016238613520785635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2013c83693a4350800000000000000
+      internalID: 6001672553141174960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7393601942e4690800000000000000
+      internalID: -7616109714543659018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3187277db29b4a0800000000000000
+      internalID: -6577177576459463731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c7b18ac67311040800000000000000
+      internalID: 4616532032847838327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc577ed1119022f0800000000000000
+      internalID: -999639611343414092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409a7d54b188a2140800000000000000
+      internalID: 4695715212204419332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05201f12980585a0800000000000000
+      internalID: -6519795461869525750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af210dcca60afbc30800000000000000
+      internalID: 4377393743390577402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_21
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0880ff412bda63360800000000000000
+      internalID: 7149092438865283200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205d0493eaa059f50800000000000000
+      internalID: 6887422948534179074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29243a10dd53a4b0800000000000000
+      internalID: -5430393577304479446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d0b58ce564bead0800000000000000
+      internalID: -2671964581011976840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e84bba10fcf5b4d0800000000000000
+      internalID: -3119309058713368350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f1f930f00a52170800000000000000
+      internalID: 8153098686769864488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ff00653e03a34d0800000000000000
+      internalID: -3154154836060995814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6703e936e5983d630800000000000000
+      internalID: 3950652336625299574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a82160d6d0c2c370800000000000000
+      internalID: 8341441488695142568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 112
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506f382560876d6b0800000000000000
+      internalID: -5271894345241070075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 112
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c885b19b439f46820800000000000000
+      internalID: 2910725264027375756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_32
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 112
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7803b6baf19fe90800000000000000
+      internalID: -6991522125417773097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08960ed25617374b0800000000000000
+      internalID: -5443882845185480320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638e17c29e5bc06a0800000000000000
+      internalID: -6481605750615316426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4d5b91c60895300800000000000000
+      internalID: 241365256817202345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6691a1e8e1cc340800000000000000
+      internalID: 4885313291462207146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0fa8eb6d7cf4dd0800000000000000
+      internalID: -2499559543033630525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cac70652dfeb6820800000000000000
+      internalID: 2912685270690679488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86760c346d042cd0800000000000000
+      internalID: -2583925562048874867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b051ba51cc720d2d0800000000000000
+      internalID: -3256058773098523381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fb0903d41c81740800000000000000
+      internalID: 5123057113405374276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97de187ca80a7ecd0800000000000000
+      internalID: -2528876147832132231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fef63938f558dc0800000000000000
+      internalID: -3637396105312866432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad252968ba83f3410800000000000000
+      internalID: 1458947113639629530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f57987459a6df10800000000000000
+      internalID: 2294207240457379678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c807cdda643f2b0800000000000000
+      internalID: -5552016203076039634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f39bc2f0f94d5680800000000000000
+      internalID: -8764768000578710542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb16371567156880800000000000000
+      internalID: -8618456588955018319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c112e231158f75b20800000000000000
+      internalID: 3123237893702557980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_50
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726253d1fe7660880800000000000000
+      internalID: -8645108158006221273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 80
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd33458ab18563d40800000000000000
+      internalID: 5563731265474278364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_52
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 80
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cefc1c9843aced70800000000000000
+      internalID: 9073806881496825537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1897b17cfa0bb4760800000000000000
+      internalID: 7443237078166108545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_54
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 80
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193ecc9beedf39550800000000000000
+      internalID: 6166551516561597329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_55
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb31d5d20c60eed0800000000000000
+      internalID: -2386789043073369091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a67c352157777330800000000000000
+      internalID: 3708564008563668643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1644c5f6a799e40800000000000000
+      internalID: 5663692625103053274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a859a8dd40e2ee6f0800000000000000
+      internalID: -653534297490549366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_59
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69af4d2ceb7a0e80800000000000000
+      internalID: -8211614716253984403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358cc74247083c0a0800000000000000
+      internalID: -6862500170865784749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_61
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5e143bc9eeb2040800000000000000
+      internalID: 4624051799215695264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822e0d43fed208060800000000000000
+      internalID: 6953608330066584104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_63
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27e42a7ba2754020800000000000000
+      internalID: 2325390863420942123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d65181ff2f88cb30800000000000000
+      internalID: 4307850479657899728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_65
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1303b498c4771d230800000000000000
+      internalID: 3661839142633549873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8a42b78ff703880800000000000000
+      internalID: -8633259780474623832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1ae8d49aed577f0800000000000000
+      internalID: -615340955334172169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f221d906be434b0800000000000000
+      internalID: -5461481647908966631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-breakout 1_69
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d191538730bd5a980800000000000000
+      internalID: -8528169511408035555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a1f69194a76ee8c45903f210ce396828
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":16.0},"gridSpriteOffset":{"x":32.0,"y":177.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      spritesheet-breakout 1_0: -3943328586213254283
+      spritesheet-breakout 1_1: -1069543634387394787
+      spritesheet-breakout 1_10: -3011658425912834409
+      spritesheet-breakout 1_11: -6072634847366532850
+      spritesheet-breakout 1_12: -8016238613520785635
+      spritesheet-breakout 1_13: 6001672553141174960
+      spritesheet-breakout 1_14: -7616109714543659018
+      spritesheet-breakout 1_15: -6577177576459463731
+      spritesheet-breakout 1_16: 4616532032847838327
+      spritesheet-breakout 1_17: -999639611343414092
+      spritesheet-breakout 1_18: 4695715212204419332
+      spritesheet-breakout 1_19: -6519795461869525750
+      spritesheet-breakout 1_2: 65753771786738105
+      spritesheet-breakout 1_20: 4377393743390577402
+      spritesheet-breakout 1_21: 7149092438865283200
+      spritesheet-breakout 1_22: 6887422948534179074
+      spritesheet-breakout 1_23: -5430393577304479446
+      spritesheet-breakout 1_24: -2671964581011976840
+      spritesheet-breakout 1_25: -3119309058713368350
+      spritesheet-breakout 1_26: 8153098686769864488
+      spritesheet-breakout 1_27: -3154154836060995814
+      spritesheet-breakout 1_28: 3950652336625299574
+      spritesheet-breakout 1_29: 8341441488695142568
+      spritesheet-breakout 1_3: 3665808650154285386
+      spritesheet-breakout 1_30: -5271894345241070075
+      spritesheet-breakout 1_31: 2910725264027375756
+      spritesheet-breakout 1_32: -6991522125417773097
+      spritesheet-breakout 1_33: -5443882845185480320
+      spritesheet-breakout 1_34: -6481605750615316426
+      spritesheet-breakout 1_35: 241365256817202345
+      spritesheet-breakout 1_36: 4885313291462207146
+      spritesheet-breakout 1_37: -2499559543033630525
+      spritesheet-breakout 1_38: 2912685270690679488
+      spritesheet-breakout 1_39: -2583925562048874867
+      spritesheet-breakout 1_4: 4729153263497467926
+      spritesheet-breakout 1_40: -3256058773098523381
+      spritesheet-breakout 1_41: 5123057113405374276
+      spritesheet-breakout 1_42: -2528876147832132231
+      spritesheet-breakout 1_43: -3637396105312866432
+      spritesheet-breakout 1_44: 1458947113639629530
+      spritesheet-breakout 1_45: 2294207240457379678
+      spritesheet-breakout 1_46: -5552016203076039634
+      spritesheet-breakout 1_47: -8764768000578710542
+      spritesheet-breakout 1_48: -8618456588955018319
+      spritesheet-breakout 1_49: 3123237893702557980
+      spritesheet-breakout 1_5: 5913996152061339942
+      spritesheet-breakout 1_50: -8645108158006221273
+      spritesheet-breakout 1_51: 5563731265474278364
+      spritesheet-breakout 1_52: 9073806881496825537
+      spritesheet-breakout 1_53: 7443237078166108545
+      spritesheet-breakout 1_54: 6166551516561597329
+      spritesheet-breakout 1_55: -2386789043073369091
+      spritesheet-breakout 1_56: 3708564008563668643
+      spritesheet-breakout 1_57: 5663692625103053274
+      spritesheet-breakout 1_58: -653534297490549366
+      spritesheet-breakout 1_59: -8211614716253984403
+      spritesheet-breakout 1_6: 7598001216960095349
+      spritesheet-breakout 1_60: -6862500170865784749
+      spritesheet-breakout 1_61: 4624051799215695264
+      spritesheet-breakout 1_62: 6953608330066584104
+      spritesheet-breakout 1_63: 2325390863420942123
+      spritesheet-breakout 1_64: 4307850479657899728
+      spritesheet-breakout 1_65: 3661839142633549873
+      spritesheet-breakout 1_66: -8633259780474623832
+      spritesheet-breakout 1_67: -615340955334172169
+      spritesheet-breakout 1_68: -5461481647908966631
+      spritesheet-breakout 1_69: -8528169511408035555
+      spritesheet-breakout 1_7: 8762207145478353187
+      spritesheet-breakout 1_8: -8960279654205489644
+      spritesheet-breakout 1_9: 3556387040072355266
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
