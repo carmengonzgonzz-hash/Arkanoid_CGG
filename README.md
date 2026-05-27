@@ -80,7 +80,7 @@ Con esto la física se detiene, el movimiento se congela, el juego queda complet
 
 ## 6. Problema detectado con la pelota: ##
 
-Durante las pruebas apareció un error, la pelota dejaba de moverse al quitar la pausa. El problema estaba en esta línea del ``BallController``.
+Durante las pruebas apareció un error, la pelota dejaba de moverse al quitar la pausa. El problema estaba en esta línea del ``BallController`` dentro del método Update():
 ```csharp
 rb.simulated = false;
 ```
@@ -89,11 +89,27 @@ El Rigidbody2D de la pelota se desactivaba completamente al salir del estado Pla
 
 ## 7. Corrección del Rigidbody de la pelota: ##
 
-La solución fue modificar el sistema de simulación física en esta línea del ``BallController``.
+La solución fue modificar el sistema de simulación física en el Update() de ``BallController`` [Código completo de Update].
 ```csharp
-rb.simulated =
-    gameManager.CurrentState == GameState.Playing ||
-    gameManager.CurrentState == GameState.Pause;
+void Update()
+{
+    // SOLO desactivar física si NO estamos jugando NI en pausa
+    rb.simulated =
+        gameManager.CurrentState == GameState.Playing ||
+        gameManager.CurrentState == GameState.Pause;
+
+    // Bola pegada a la pala
+    if (isAttached && paddleTransform != null)
+    {
+        transform.position = paddleTransform.position + (Vector3)attachOffset;
+
+        if (gameManager.CurrentState == GameState.Playing &&
+            Input.GetKeyDown(KeyCode.Space))
+        {
+            Launch();
+        }
+    }
+}
 ```
 Con este cambio, el Rigidbody permanece activo en pausa el Time.timeScale = 0 se encarga de congelar la física y al reanudar, la pelota continúa moviéndose correctamente.
 
