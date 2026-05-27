@@ -46,6 +46,7 @@ Con esto el panel aparece cuando el estado es Pause y desaparece automáticament
 
 Dentro del método Update() del ``GameManager`` añadimos la detección de la tecla Escape.
 ```csharp
+ void Update()
 if (Input.GetKeyDown(KeyCode.Escape))
 {
     if (state == GameState.Playing)
